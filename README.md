@@ -1,121 +1,54 @@
 # OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
 
 ## AIM:
+To install operating system.
+## STEPS:
+1.Prepare Installation Media:Insert the installation DVD or connect the bootable USB drive containing the operating system into your computer.
 
-To install an operating system using virtual box.
+![os21](https://github.com/Iyyanar22009120/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118680259/94258d3b-dcc8-4e52-aa7c-37459b1c1a25)
 
 
-## PROCEDURE:
+2.Boot from Installation Media:Select the bootable media (DVD or USB drive) as the primary boot device.
 
-## STEP 1:
+![os22](https://github.com/Iyyanar22009120/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118680259/7bdaebd3-acd7-4fbf-bdef-b3e6f8307f2c)
 
-Download the live image from the fedoraproject website. If you are a KDE
-Fan, go here.
-![image](https://github.com/Kishore2o/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679883/07bbb649-a3b5-4fa9-8325-29b2ddafb838)
 
-## STEP 2:
+3.Select Language and Region:The installation process usually starts with selecting your preferred language, time zone, and keyboard layout.
 
-Burn the .ISO image to a CD, DVD or a USB stick. Make sure that you write
-it at a slow speed so that nothing gets broken in the process.
-![image](https://github.com/Kishore2o/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679883/17c88b7b-cbf9-4391-8cae-034e5ed048c9)
+![os23](https://github.com/Iyyanar22009120/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118680259/a26acedd-d830-4cb1-8447-abe980f90f5d)
 
-## STEP 3:
 
-Change the BIOS settings. If you are using a live USB, you might need to go
-into your BIOS and change the boot priority in order to boot from your USB.
-You can access your computer's BIOS by pressing ‘F2' or ‘Delete' on most
-computers when the computer is booting up. If you are using a CD or DVD,
-ignore this step as generally CDs are first in boot priority.
+4.Begin Installation:Click "Install Now" or its equivalent to initiate the installation.
 
-## STEP 4:
+5.Enter Product Key (if required):If prompted, enter the product key or license key for the operating system. This step may not be applicable for some Linux distributions.
 
-Be sure to select "Live Drive" when the option screen first appears. If you
-select to install it, it can potentially delete everything from your system.
-![image](https://github.com/Kishore2o/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679883/47f56d55-66e7-43a9-92d7-1d8dad2a1883)
+![os24](https://github.com/Iyyanar22009120/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118680259/7ceae55e-1292-469a-a29f-8006d01c5653)
 
-## STEP 5:
 
-Explore the system. The most notable thing about you should toy with is the
-window manager which allows you to see pretty cool effects. You should also
-explore around the applications already installed in the OS and see what
-else is available with their package manager.
+6.Accept License Terms:Read and accept the terms and conditions of the operating system's license agreement.
 
-## Steps:6
+7.Choose Installation Type:Select the installation type. Common options include:"Custom" or "Advanced" for more control over partitions.
 
-Install the live image to your hard drive .If you have made the decision to
-install Linux on your system, click on the "Install to Hard drive" icon on the
-workspace
+![os25](https://github.com/Iyyanar22009120/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118680259/ea371505-bc86-4ef1-a457-936c22e38e22)
 
-## Steps:7
+8.Create or Select a Partition:For Windows, you can create, format, and select partitions during this step.
+![os26](https://github.com/Iyyanar22009120/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118680259/e8147cf3-b8ef-40a1-95d2-5a3b8baafac4)
 
-Click on next when the installer starts and then select your keyboard layout.
 
-## Steps:8
+9.Begin Installation:Confirm your partition selections and begin the installation process. This may take some time, depending on your hardware.
 
-Choose the host name. It can be left as is or you can enter in the name you
-desire. That is going to be the name for the computer. Then click on next.
+10.Set Up User and Computer Details:Provide your full name, username, and password for the administrator (or root) account.Set your computer's name.
 
-## Steps:9
+![os27](https://github.com/Iyyanar22009120/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118680259/3c463026-8ba5-42cb-9d8c-8c68adcbf2ca)
 
-Select your time zone and click next.
 
-## Steps:10
+11.Configure Additional Settings:Follow on-screen prompts to customize additional settings, such as time and date, network settings, and privacy preferences.
 
-Enter your root password for the system. Make sure that the password is
-something hard for others to guess; the security of your system depends on
-it.
-![image](https://github.com/Kishore2o/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679883/16b356d4-8e0b-47f9-8f10-8e710fdf9e37)
+12.Install Additional Software (if applicable):Some operating systems, like Linux distributions, allow you to select additional software packages during installation. Choose the packages you need.
 
-## Steps:11
+![os28](https://github.com/Iyyanar22009120/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118680259/00a86b58-f17a-4976-92f0-311138c7284a)
 
-Choose the mode of installation.Use entire drive. As the title says, Fedora
-would clear off all the data on your hard drive and use the complete space
-for its installation. But beware that you could lose all data on your drive.Use
-free space. If you have allotted space on your hard drive, all that space is
-used for Fedora installation.
 
-![image](https://github.com/Kishore2o/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679883/6ebdeba9-7179-412a-878c-a0ac236d77d9)
-
-## Steps:12
-
-Choose one which suits you the most and click next. Confirm by clicking on
-‘write changes to disk'
-
-## Steps:13
-
-Wait for it to complete the install . After this installation starts, it will take
-approximately take 5-10 minutes (depending on your system) for it to be
-complete 
-
-## Steps:14
-
-Re-boot the computer when the installation is done. Go to System > Shut
-Down and make sure to remove your live CD from the CD drive or your USB
-drive from the USB port.
-
-## Steps:15
-
-Click on ‘forward' on the first boot wizard and read and accept the licence
-
-## Steps:16
-
-Click on forward again. At the Create User prompt, enter the user name you
-desire, your full name, and your password.
-
-## Steps:17
-
-Set your date and time, then click on the ‘Network Time Protocol' tab. With
-the network time protocol (NTP), your computer can fetch the current time
-from a time server over the internet, so you do not have to adjust the time
-every time DST goes into or out of effect. Select enable network time protocol
-and click ‘forward'.
-
-![image](https://github.com/Kishore2o/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118679883/72b5b291-3f20-4db5-88e9-b4f63e226d0e)
-
-## Steps:18
-
-Log-in and enter your password and you can now call yourself a Fedora user.
-This is how your Fedora desktop will look.
-
+13.Complete Installation:Wait for the installation process to finish.Your computer may restart during this time.
 ## RESULT:
-Successfully we installed the OS
+Thus the Operating system has been installed successfully.
